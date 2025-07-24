@@ -19,32 +19,34 @@ A fully responsive and user-focused content dashboard built with Next.js, TypeSc
 🌐 Vercel Deployed – Optimized for production
 
 📁 Project Structure
-graphql
-Copy
-Edit
-📦 project-root
+```bash
+📦 personalized-content-dashboard
 ├── app
-│   ├── page.tsx              # Main dashboard page
-│   └── layout.tsx            # App layout
+│   ├── layout.tsx
+│   └── page.tsx
 ├── components
-│   ├── PreferencesForm.tsx   # Form to select user preferences
-│   ├── PersonalizedFeed.tsx  # Content feed based on selected preferences
-│   └── TrendingSection.tsx   # Static trending content section
+│   ├── PreferencesForm.tsx
+│   ├── PersonalizedFeed.tsx
+│   └── TrendingSection.tsx
 ├── constants
-│   └── categories.ts         # Available category list
+│   └── categories.ts
 ├── data
-│   └── trending.json         # Trending data
+│   └── trending.json
 ├── redux
-│   ├── store.ts              # Redux store config
-│   └── preferencesSlice.ts   # Preferences reducer and actions
-├── styles
-│   └── globals.css           # Global styles
+│   ├── store.ts
+│   └── preferencesSlice.ts
 ├── public
-│   └── ...                   # Static assets (if any)
-├── eslint.config.ts         # ESLint config using FlatConfig
-├── tailwind.config.ts       # Tailwind configuration
-└── README.md                 # Project documentation
+│   └── ... (static assets)
+├── styles
+│   └── globals.css
+├── .eslintrc.ts
+├── tailwind.config.ts
+├── tsconfig.json
+├── package.json
+└── README.md
+```
 🛠️ Tech Stack
+
 Framework: Next.js
 
 Language: TypeScript
