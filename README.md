@@ -1,36 +1,99 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+📚 Personalized Content Dashboard
+A fully responsive and user-focused content dashboard built with Next.js, TypeScript, Redux Toolkit, and Tailwind CSS. It allows users to select their preferred content categories and view a personalized feed based on their interests.
 
-## Getting Started
+🚀 Features
+🔧 User Preferences – Select and save your favorite categories
 
-First, run the development server:
+📰 Personalized Feed – Dynamic feed generation based on selected interests
 
-```bash
+⚡ Trending Section – Highlights popular or recommended content
+
+💾 Persistent State – User preferences stored using Redux
+
+🎨 Modern UI – Responsive design with Tailwind CSS
+
+✅ Type Safety – Full TypeScript support
+
+🔍 ESLint + Prettier – Code quality and formatting enforced
+
+🌐 Vercel Deployed – Optimized for production
+
+📁 Project Structure
+graphql
+Copy
+Edit
+📦 project-root
+├── app
+│   ├── page.tsx              # Main dashboard page
+│   └── layout.tsx            # App layout
+├── components
+│   ├── PreferencesForm.tsx   # Form to select user preferences
+│   ├── PersonalizedFeed.tsx  # Content feed based on selected preferences
+│   └── TrendingSection.tsx   # Static trending content section
+├── constants
+│   └── categories.ts         # Available category list
+├── data
+│   └── trending.json         # Trending data
+├── redux
+│   ├── store.ts              # Redux store config
+│   └── preferencesSlice.ts   # Preferences reducer and actions
+├── styles
+│   └── globals.css           # Global styles
+├── public
+│   └── ...                   # Static assets (if any)
+├── eslint.config.ts         # ESLint config using FlatConfig
+├── tailwind.config.ts       # Tailwind configuration
+└── README.md                 # Project documentation
+🛠️ Tech Stack
+Framework: Next.js
+
+Language: TypeScript
+
+Styling: Tailwind CSS
+
+State Management: Redux Toolkit
+
+Linting: ESLint (Flat Config)
+
+Deployment: Vercel
+
+🧑‍💻 Getting Started
+1. Clone the Repository
+bash
+Copy
+Edit
+git clone https://github.com/your-username/personalized-dashboard.git
+cd personalized-dashboard
+2. Install Dependencies
+bash
+Copy
+Edit
+npm install
+3. Run Locally
+bash
+Copy
+Edit
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Visit http://localhost:3000
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+4. Build for Production
+bash
+Copy
+Edit
+npm run build
+npm start
+⚙️ Customization
+To update categories → edit constants/categories.ts
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To update trending data → modify data/trending.json
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+🌐 Live Demo
+https://your-vercel-project.vercel.app
 
-## Learn More
+🙌 Author
+Sanjay Sadanand Gupta
 
-To learn more about Next.js, take a look at the following resources:
+GitHub: @your-username
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+LinkedIn: Your Profile
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
