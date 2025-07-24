@@ -62,7 +62,7 @@ Deployment: Vercel
 bash
 Copy
 Edit
-git clone https://github.com/your-username/personalized-dashboard.git
+git clone https://github.com/Sanjay522/PersonalizedContentDashboard
 cd personalized-dashboard
 2. Install Dependencies
 bash
@@ -88,12 +88,9 @@ To update categories → edit constants/categories.ts
 To update trending data → modify data/trending.json
 
 🌐 Live Demo
-https://your-vercel-project.vercel.app
-
+https://personalized-content-dashboard-lovat.vercel.app/
 🙌 Author
 Sanjay Sadanand Gupta
 
-GitHub: @your-username
-
-LinkedIn: Your Profile
+GitHub: @Sanjay522
 
