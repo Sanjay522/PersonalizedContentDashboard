@@ -3,10 +3,12 @@
 import { useState, useEffect } from "react";
 import { categories } from "@/constants/categories";
 import { savePreferences, loadPreferences } from "@/utils/localStorage";
-import type { Category } from "@/types/preference";
+import { motion, AnimatePresence } from "framer-motion";
+
+
 
 export default function PreferencesForm() {
-  const [selected, setSelected] = useState<Category[]>([]);
+  const [selected, setSelected] = useState<string[]>([]);
   const [isSaved, setIsSaved] = useState(false);
 
   useEffect(() => {
@@ -14,11 +16,11 @@ export default function PreferencesForm() {
     if (prefs) setSelected(prefs.categories);
   }, []);
 
-  const toggleCategory = (category: Category) => {
+  const toggleCategory = (id: string) => {
     setSelected((prevSelected) =>
-      prevSelected.includes(category)
-        ? prevSelected.filter((c) => c !== category)
-        : [...prevSelected, category]
+      prevSelected.includes(id)
+        ? prevSelected.filter((c) => c !== id)
+        : [...prevSelected, id]
     );
     setIsSaved(false);
   };
@@ -29,35 +31,59 @@ export default function PreferencesForm() {
   };
 
   return (
-    <div className="max-w-md mx-auto p-4 border rounded shadow-md bg-white">
+    <motion.div
+      className="max-w-2xl mx-auto p-6 rounded shadow-md bg-white"
+      initial={{ opacity: 0, y: 30 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.5 }}
+    >
       <h2 className="text-2xl font-semibold mb-4">Select Your Categories</h2>
 
-      <div className="flex flex-wrap gap-2 mb-6">
-        {categories.map((cat) => (
-          <button
-            key={cat}
-            onClick={() => toggleCategory(cat as Category)}
-            className={`px-4 py-2 rounded border transition ${
-              selected.includes(cat as Category)
-                ? "bg-blue-600 text-white border-blue-600"
-                : "bg-gray-100 text-gray-800 border-gray-300"
-            }`}
-          >
-            {cat}
-          </button>
-        ))}
+      <div className="grid grid-cols-2 sm:grid-cols-3 gap-4 mb-6">
+        {categories.map((category) => {
+          const isSelected = selected.includes(category.id);
+          const IconComponent = category.icon;
+          return (
+            <motion.button
+              whileHover={{ scale: 1.05 }}
+              whileTap={{ scale: 0.95 }}
+              key={category.id}
+              onClick={() => toggleCategory(category.id)}
+              className={`flex items-center gap-2 px-4 py-2 rounded border transition-all ${
+                isSelected
+                  ? `${category.color} text-white border-transparent shadow`
+                  : `bg-gray-100 text-gray-800 border-gray-300`
+              }`}
+            >
+              <IconComponent className="w-5 h-5" />
+              {category.name}
+            </motion.button>
+          );
+        })}
       </div>
 
-      <button
+      <motion.button
+        whileHover={{ scale: 1.05 }}
+        whileTap={{ scale: 0.95 }}
         onClick={handleSave}
         className="bg-green-600 hover:bg-green-700 text-white px-5 py-2 rounded transition"
       >
         Save Preferences
-      </button>
+      </motion.button>
 
-      {isSaved && (
-        <p className="text-green-600 mt-3 font-medium">Preferences saved!</p>
-      )}
-    </div>
+      <AnimatePresence>
+        {isSaved && (
+          <motion.p
+            className="text-green-600 mt-3 font-medium"
+            initial={{ opacity: 0, y: 10 }}
+            animate={{ opacity: 1, y: 0 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: 0.3 }}
+          >
+            Preferences saved!
+          </motion.p>
+        )}
+      </AnimatePresence>
+    </motion.div>
   );
 }

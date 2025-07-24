@@ -1,0 +1,62 @@
+[
+  {
+    "id": 3,
+    "title": "Quantum Computing Breakthrough",
+    "description": "Scientists achieve 99.9% qubit stability in new processor design.",
+    "category": "technology"
+  },
+  {
+    "id": 4,
+    "title": "Virtual Reality Gaming Revolution",
+    "description": "New haptic suit allows players to feel every game interaction.",
+    "category": "entertainment"
+  },
+  {
+    "id": 5,
+    "title": "Mars Colony Mission Approved",
+    "description": "Space agency announces funding for first permanent Mars settlement.",
+    "category": "science"
+  },
+  {
+    "id": 6,
+    "title": "Electric Vehicle Sales Surge",
+    "description": "EV market share reaches 60% in major cities worldwide.",
+    "category": "business"
+  },
+  {
+    "id": 7,
+    "title": "Climate Summit Reaches Agreement",
+    "description": "195 countries commit to carbon neutrality by 2035.",
+    "category": "politics"
+  },
+  {
+    "id": 8,
+    "title": "AI-Generated Music Wins Grammy",
+    "description": "First artificial intelligence composer receives major music award.",
+    "category": "entertainment"
+  },
+  {
+    "id": 9,
+    "title": "Gene Therapy Cures Rare Disease",
+    "description": "Revolutionary treatment shows 100% success rate in clinical trials.",
+    "category": "health"
+  },
+  {
+    "id": 10,
+    "title": "Renewable Energy Milestone",
+    "description": "Solar and wind power now supply 80% of global electricity demand.",
+    "category": "science"
+  },
+  {
+    "id": 11,
+    "title": "Cryptocurrency Market Stabilizes",
+    "description": "Digital currencies show consistent growth after regulatory clarity.",
+    "category": "business"
+  },
+  {
+    "id": 12,
+    "title": "Olympic Games Go Carbon Negative",
+    "description": "Paris 2028 Olympics removes more CO2 than it produces.",
+    "category": "sports"
+  }
+]

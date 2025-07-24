@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "username": "tech_guru",
+    "content": "AI tools are evolving fast! Just tried the new OpenAI tool. 😍",
+    "timestamp": "2025-07-21T12:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 2,
+    "username": "sportsfan99",
+    "content": "Still can't believe India won the T20 World Cup! 🏏🇮🇳🔥",
+    "timestamp": "2025-07-21T11:00:00Z",
+    "category": "sports"
+  },
+  {
+    "id": 3,
+    "username": "coder123",
+    "content": "Learning AI has been a game-changer for my career. 🚀",
+    "timestamp": "2025-07-21T10:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 4,
+    "username": "finance_expert",
+    "content": "Understanding compounding changed my investment strategy. 💹",
+    "timestamp": "2025-07-21T09:00:00Z",
+    "category": "finance"
+  },
+  {
+    "id": 5,
+    "username": "health_freak",
+    "content": "Daily meditation is boosting my mental health. 🧘",
+    "timestamp": "2025-07-21T08:00:00Z",
+    "category": "health"
+  },
+  {
+    "id": 6,
+    "username": "movie_buff",
+    "content": "Just watched the most amazing sci-fi movie of the year! 🎥",
+    "timestamp": "2025-07-21T07:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "id": 7,
+    "username": "music_geek",
+    "content": "This new album is a masterpiece. 🎶🔥",
+    "timestamp": "2025-07-21T06:00:00Z",
+    "category": "music"
+  },
+  {
+    "id": 8,
+    "username": "dev_master",
+    "content": "Just deployed my first app using Next.js and Vercel! 🌐",
+    "timestamp": "2025-07-21T05:00:00Z",
+    "category": "development"
+  },
+  {
+    "id": 9,
+    "username": "crypto_bro",
+    "content": "Bitcoin is pumping again! 📈🚀",
+    "timestamp": "2025-07-21T04:00:00Z",
+    "category": "crypto"
+  },
+  {
+    "id": 10,
+    "username": "data_scientist",
+    "content": "Finally cracked my first machine learning model. 🤖📊",
+    "timestamp": "2025-07-21T03:00:00Z",
+    "category": "data"
+  },
+  {
+    "id": 11,
+    "username": "tech_guru",
+    "content": "Quantum computing breakthrough! IBM's new processor is mind-blowing 🧠⚡",
+    "timestamp": "2025-07-21T02:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 12,
+    "username": "sportsfan99",
+    "content": "That cricket match was pure poetry in motion! What a century! 🏏✨",
+    "timestamp": "2025-07-21T01:00:00Z",
+    "category": "sports"
+  },
+  {
+    "id": 13,
+    "username": "coder123",
+    "content": "Debugging for 6 hours straight, but finally fixed the memory leak! 💻🔧",
+    "timestamp": "2025-07-21T00:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 14,
+    "username": "finance_expert",
+    "content": "Market volatility today reminds me why diversification matters 📊⚖️",
+    "timestamp": "2025-07-20T23:00:00Z",
+    "category": "finance"
+  },
+  {
+    "id": 15,
+    "username": "health_freak",
+    "content": "Morning yoga session complete! Feeling energized for the day 🧘‍♀️☀️",
+    "timestamp": "2025-07-20T22:00:00Z",
+    "category": "health"
+  },
+  {
+    "id": 16,
+    "username": "movie_buff",
+    "content": "Indie film festivals are where real cinema magic happens 🎬🌟",
+    "timestamp": "2025-07-20T21:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "id": 17,
+    "username": "music_geek",
+    "content": "Vinyl records hitting different tonight... analog warmth is unmatched 🎵📀",
+    "timestamp": "2025-07-20T20:00:00Z",
+    "category": "music"
+  },
+  {
+    "id": 18,
+    "username": "dev_master",
+    "content": "Clean code is poetry. Messy code is a horror story 📝👻",
+    "timestamp": "2025-07-20T19:00:00Z",
+    "category": "development"
+  },
+  {
+    "id": 19,
+    "username": "crypto_bro",
+    "content": "DeFi protocols are revolutionizing traditional banking! 🏦⚡",
+    "timestamp": "2025-07-20T18:00:00Z",
+    "category": "crypto"
+  },
+  {
+    "id": 20,
+    "username": "data_scientist",
+    "content": "Data visualization is storytelling with numbers 📈📚",
+    "timestamp": "2025-07-20T17:00:00Z",
+    "category": "data"
+  },
+  {
+    "id": 21,
+    "username": "tech_guru",
+    "content": "5G networks are finally delivering on their promises! Lightning fast ⚡📱",
+    "timestamp": "2025-07-20T16:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 22,
+    "username": "sportsfan99",
+    "content": "Olympic training documentary was incredible! These athletes are superhuman 🏃‍♂️💪",
+    "timestamp": "2025-07-20T15:00:00Z",
+    "category": "sports"
+  },
+  {
+    "id": 23,
+    "username": "coder123",
+    "content": "React hooks make state management so elegant and clean 🎯✨",
+    "timestamp": "2025-07-20T14:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 24,
+    "username": "finance_expert",
+    "content": "Dollar-cost averaging through market dips pays off in the long run 💰📅",
+    "timestamp": "2025-07-20T13:00:00Z",
+    "category": "finance"
+  },
+  {
+    "id": 25,
+    "username": "health_freak",
+    "content": "Intermittent fasting day 30! Energy levels through the roof 🔋🍽️",
+    "timestamp": "2025-07-20T12:00:00Z",
+    "category": "health"
+  },
+  {
+    "id": 26,
+    "username": "movie_buff",
+    "content": "Horror movies are having their renaissance moment right now 🎃🎭",
+    "timestamp": "2025-07-20T11:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "id": 27,
+    "username": "music_geek",
+    "content": "K-pop production quality is setting new industry standards 🎤🌏",
+    "timestamp": "2025-07-20T10:00:00Z",
+    "category": "music"
+  },
+  {
+    "id": 28,
+    "username": "dev_master",
+    "content": "Microservices architecture: complex to set up, beautiful to scale 🏗️📈",
+    "timestamp": "2025-07-20T09:00:00Z",
+    "category": "development"
+  },
+  {
+    "id": 29,
+    "username": "crypto_bro",
+    "content": "NFT marketplace dynamics are fascinating from an economic perspective 🖼️💎",
+    "timestamp": "2025-07-20T08:00:00Z",
+    "category": "crypto"
+  },
+  {
+    "id": 30,
+    "username": "data_scientist",
+    "content": "Feature engineering is where the real magic happens in ML 🔮⚗️",
+    "timestamp": "2025-07-20T07:00:00Z",
+    "category": "data"
+  },
+  {
+    "id": 31,
+    "username": "tech_guru",
+    "content": "Edge computing is bringing processing power closer to users 🌐⚡",
+    "timestamp": "2025-07-20T06:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 32,
+    "username": "sportsfan99",
+    "content": "Swimming technique optimization can shave seconds off your time 🏊‍♂️⏱️",
+    "timestamp": "2025-07-20T05:00:00Z",
+    "category": "sports"
+  },
+  {
+    "id": 33,
+    "username": "coder123",
+    "content": "AR glasses will change how we interact with digital information 🥽👁️",
+    "timestamp": "2025-07-20T04:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 34,
+    "username": "finance_expert",
+    "content": "Retirement planning at 25 gives you compound interest superpowers 🦸‍♂️💰",
+    "timestamp": "2025-07-20T03:00:00Z",
+    "category": "finance"
+  },
+  {
+    "id": 35,
+    "username": "health_freak",
+    "content": "Gut health research is revealing mind-body connections we never knew 🧠🦠",
+    "timestamp": "2025-07-20T02:00:00Z",
+    "category": "health"
+  },
+  {
+    "id": 36,
+    "username": "movie_buff",
+    "content": "Documentary filmmaking is capturing truth in powerful ways 📹🔍",
+    "timestamp": "2025-07-20T01:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "id": 37,
+    "username": "music_geek",
+    "content": "Electronic music production tools are democratizing creativity 🎛️💫",
+    "timestamp": "2025-07-20T00:00:00Z",
+    "category": "music"
+  },
+  {
+    "id": 38,
+    "username": "dev_master",
+    "content": "Database optimization can turn slow queries into lightning fast ones ⚡🗄️",
+    "timestamp": "2025-07-19T23:00:00Z",
+    "category": "development"
+  },
+  {
+    "id": 39,
+    "username": "crypto_bro",
+    "content": "Layer 2 solutions are solving blockchain's scalability puzzle 🧩⚡",
+    "timestamp": "2025-07-19T22:00:00Z",
+    "category": "crypto"
+  },
+  {
+    "id": 40,
+    "username": "data_scientist",
+    "content": "A/B testing results came in - statistical significance achieved! 📊✅",
+    "timestamp": "2025-07-19T21:00:00Z",
+    "category": "data"
+  },
+  {
+    "id": 41,
+    "username": "tech_guru",
+    "content": "Cybersecurity threats evolving faster than our defenses 🛡️⚠️",
+    "timestamp": "2025-07-19T20:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 42,
+    "username": "sportsfan99",
+    "content": "Marathon training week 12 - my legs are stronger than ever 🏃‍♂️💪",
+    "timestamp": "2025-07-19T19:00:00Z",
+    "category": "sports"
+  },
+  {
+    "id": 43,
+    "username": "coder123",
+    "content": "Electric vehicle charging infrastructure expanding rapidly nationwide 🔌🚗",
+    "timestamp": "2025-07-19T18:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 44,
+    "username": "finance_expert",
+    "content": "Credit score jumped 50 points after paying down debt! 📈💳",
+    "timestamp": "2025-07-19T17:00:00Z",
+    "category": "finance"
+  },
+  {
+    "id": 45,
+    "username": "health_freak",
+    "content": "Plant-based protein sources are more diverse than I thought 🌱💪",
+    "timestamp": "2025-07-19T16:00:00Z",
+    "category": "health"
+  },
+  {
+    "id": 46,
+    "username": "movie_buff",
+    "content": "Podcast storytelling is creating new narrative possibilities 🎧📚",
+    "timestamp": "2025-07-19T15:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "id": 47,
+    "username": "music_geek",
+    "content": "Lo-fi hip hop became the soundtrack to productivity culture 🎵📚",
+    "timestamp": "2025-07-19T14:00:00Z",
+    "category": "music"
+  },
+  {
+    "id": 48,
+    "username": "dev_master",
+    "content": "Docker containers make deployment consistency a breeze 🐳📦",
+    "timestamp": "2025-07-19T13:00:00Z",
+    "category": "development"
+  },
+  {
+    "id": 49,
+    "username": "crypto_bro",
+    "content": "Web3 gaming economies are creating real value for players 🎮💰",
+    "timestamp": "2025-07-19T12:00:00Z",
+    "category": "crypto"
+  },
+  {
+    "id": 50,
+    "username": "data_scientist",
+    "content": "Natural language processing breakthroughs happening weekly now 🗣️🤖",
+    "timestamp": "2025-07-19T11:00:00Z",
+    "category": "data"
+  },
+  {
+    "id": 51,
+    "username": "tech_guru",
+    "content": "IoT security vulnerabilities are keeping me up at night 🔒😰",
+    "timestamp": "2025-07-19T10:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 52,
+    "username": "sportsfan99",
+    "content": "Yoga flexibility training improved my athletic performance dramatically 🧘‍♂️⚽",
+    "timestamp": "2025-07-19T09:00:00Z",
+    "category": "sports"
+  },
+  {
+    "id": 53,
+    "username": "coder123",
+    "content": "Sustainable tech solutions are becoming profitable investments 🌱💰",
+    "timestamp": "2025-07-19T08:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 54,
+    "username": "finance_expert",
+    "content": "Small business loan approval! Time to scale operations 🏢📈",
+    "timestamp": "2025-07-19T07:00:00Z",
+    "category": "finance"
+  },
+  {
+    "id": 55,
+    "username": "health_freak",
+    "content": "Stress management techniques from therapy actually work 🧠💆‍♀️",
+    "timestamp": "2025-07-19T06:00:00Z",
+    "category": "health"
+  },
+  {
+    "id": 56,
+    "username": "movie_buff",
+    "content": "VR entertainment experiences are getting incredibly immersive 🥽🌟",
+    "timestamp": "2025-07-19T05:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "id": 57,
+    "username": "music_geek",
+    "content": "Reggaeton's global influence is undeniable at this point 🌍🎵",
+    "timestamp": "2025-07-19T04:00:00Z",
+    "category": "music"
+  },
+  {
+    "id": 58,
+    "username": "dev_master",
+    "content": "Agile methodology transformed our team's productivity 🔄⚡",
+    "timestamp": "2025-07-19T03:00:00Z",
+    "category": "development"
+  },
+  {
+    "id": 59,
+    "username": "crypto_bro",
+    "content": "Crypto tax season is more complex than traditional investing 📊😅",
+    "timestamp": "2025-07-19T02:00:00Z",
+    "category": "crypto"
+  },
+  {
+    "id": 60,
+    "username": "data_scientist",
+    "content": "Time series forecasting model finally predicting accurately! 📈🎯",
+    "timestamp": "2025-07-19T01:00:00Z",
+    "category": "data"
+  },
+  {
+    "id": 61,
+    "username": "tech_guru",
+    "content": "Biometric authentication is replacing passwords everywhere 👁️🔐",
+    "timestamp": "2025-07-19T00:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 62,
+    "username": "sportsfan99",
+    "content": "CrossFit workout destroyed me today, but I feel amazing 💪🔥",
+    "timestamp": "2025-07-18T23:00:00Z",
+    "category": "sports"
+  },
+  {
+    "id": 63,
+    "username": "coder123",
+    "content": "Brain-computer interfaces are straight out of science fiction 🧠💻",
+    "timestamp": "2025-07-18T22:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 64,
+    "username": "finance_expert",
+    "content": "ESG investing principles align profit with purpose 🌍💚",
+    "timestamp": "2025-07-18T21:00:00Z",
+    "category": "finance"
+  },
+  {
+    "id": 65,
+    "username": "health_freak",
+    "content": "Mindfulness meditation research validates what practitioners knew 🧘‍♀️📚",
+    "timestamp": "2025-07-18T20:00:00Z",
+    "category": "health"
+  },
+  {
+    "id": 66,
+    "username": "movie_buff",
+    "content": "Adult animation is experiencing a creative renaissance period 🎨🎬",
+    "timestamp": "2025-07-18T19:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "id": 67,
+    "username": "music_geek",
+    "content": "Afrobeats rhythms are influencing artists globally now 🌍🥁",
+    "timestamp": "2025-07-18T18:00:00Z",
+    "category": "music"
+  },
+  {
+    "id": 68,
+    "username": "dev_master",
+    "content": "Cloud-native development patterns require different thinking 🌤️💭",
+    "timestamp": "2025-07-18T17:00:00Z",
+    "category": "development"
+  },
+  {
+    "id": 69,
+    "username": "crypto_bro",
+    "content": "DAO governance is experimenting with digital democracy 🗳️🤖",
+    "timestamp": "2025-07-18T16:00:00Z",
+    "category": "crypto"
+  },
+  {
+    "id": 70,
+    "username": "data_scientist",
+    "content": "Feature engineering workshop taught me game-changing techniques 🛠️🎯",
+    "timestamp": "2025-07-18T15:00:00Z",
+    "category": "data"
+  },
+  {
+    "id": 71,
+    "username": "tech_guru",
+    "content": "Autonomous vehicles are closer to reality than expected 🚗🤖",
+    "timestamp": "2025-07-18T14:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 72,
+    "username": "sportsfan99",
+    "content": "Sports psychology training improved my mental game significantly 🧠🏆",
+    "timestamp": "2025-07-18T13:00:00Z",
+    "category": "sports"
+  },
+  {
+    "id": 73,
+    "username": "coder123",
+    "content": "Wearable health monitoring is becoming incredibly accurate 📱❤️",
+    "timestamp": "2025-07-18T12:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 74,
+    "username": "finance_expert",
+    "content": "Passive income streams are diversifying my portfolio nicely 💰🌊",
+    "timestamp": "2025-07-18T11:00:00Z",
+    "category": "finance"
+  },
+  {
+    "id": 75,
+    "username": "health_freak",
+    "content": "Anti-inflammatory diet changes reduced my joint pain dramatically 🦴🥗",
+    "timestamp": "2025-07-18T10:00:00Z",
+    "category": "health"
+  },
+  {
+    "id": 76,
+    "username": "movie_buff",
+    "content": "Superhero movie fatigue debate is fascinating culturally 🦸‍♂️💭",
+    "timestamp": "2025-07-18T09:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "id": 77,
+    "username": "music_geek",
+    "content": "Bedroom pop's intimate sound perfectly captures modern loneliness 🛏️🎵",
+    "timestamp": "2025-07-18T08:00:00Z",
+    "category": "music"
+  },
+  {
+    "id": 78,
+    "username": "dev_master",
+    "content": "Progressive Web Apps blur the line between web and mobile 📱🌐",
+    "timestamp": "2025-07-18T07:00:00Z",
+    "category": "development"
+  },
+  {
+    "id": 79,
+    "username": "crypto_bro",
+    "content": "Crypto mining evolution toward sustainability is promising 🌱⚡",
+    "timestamp": "2025-07-18T06:00:00Z",
+    "category": "crypto"
+  },
+  {
+    "id": 80,
+    "username": "data_scientist",
+    "content": "Anomaly detection caught suspicious patterns others missed 🔍📊",
+    "timestamp": "2025-07-18T05:00:00Z",
+    "category": "data"
+  },
+  {
+    "id": 81,
+    "username": "tech_guru",
+    "content": "Space technology commercialization is accelerating rapidly 🚀🌌",
+    "timestamp": "2025-07-18T04:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 82,
+    "username": "sportsfan99",
+    "content": "Pilates core strength training transformed my posture completely 🧘‍♀️💪",
+    "timestamp": "2025-07-18T03:00:00Z",
+    "category": "sports"
+  },
+  {
+    "id": 83,
+    "username": "coder123",
+    "content": "AI ethics discussions are crucial for responsible development 🤖⚖️",
+    "timestamp": "2025-07-18T02:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 84,
+    "username": "finance_expert",
+    "content": "Index fund strategy beats active trading consistently 📈📊",
+    "timestamp": "2025-07-18T01:00:00Z",
+    "category": "finance"
+  },
+  {
+    "id": 85,
+    "username": "health_freak",
+    "content": "Proper hydration improved my workout performance immediately 💧🏃‍♀️",
+    "timestamp": "2025-07-18T00:00:00Z",
+    "category": "health"
+  },
+  {
+    "id": 86,
+    "username": "movie_buff",
+    "content": "Film festival circuit discovering incredible independent voices 🎬🌟",
+    "timestamp": "2025-07-17T23:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "id": 87,
+    "username": "music_geek",
+    "content": "Country music's pop crossover creating interesting hybrid sounds 🤠🎤",
+    "timestamp": "2025-07-17T22:00:00Z",
+    "category": "music"
+  },
+  {
+    "id": 88,
+    "username": "dev_master",
+    "content": "GraphQL revolutionized how we fetch data efficiently 🔄📡",
+    "timestamp": "2025-07-17T21:00:00Z",
+    "category": "development"
+  },
+  {
+    "id": 89,
+    "username": "crypto_bro",
+    "content": "Blockchain interoperability solutions connecting isolated networks 🌉⛓️",
+    "timestamp": "2025-07-17T20:00:00Z",
+    "category": "crypto"
+  },
+  {
+    "id": 90,
+    "username": "data_scientist",
+    "content": "Customer segmentation analysis revealed surprising user patterns 👥📈",
+    "timestamp": "2025-07-17T19:00:00Z",
+    "category": "data"
+  },
+  {
+    "id": 91,
+    "username": "tech_guru",
+    "content": "Machine learning model interpretability is becoming critical 🔍🤖",
+    "timestamp": "2025-07-17T18:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 92,
+    "username": "sportsfan99",
+    "content": "Recovery techniques are just as important as training itself 💆‍♂️⚡",
+    "timestamp": "2025-07-17T17:00:00Z",
+    "category": "sports"
+  },
+  {
+    "id": 93,
+    "username": "coder123",
+    "content": "Serverless architecture is changing how we think about infrastructure 🌩️⚡",
+    "timestamp": "2025-07-17T16:00:00Z",
+    "category": "technology"
+  },
+  {
+    "id": 94,
+    "username": "finance_expert",
+    "content": "Emergency fund finally reached 6 months of expenses! 🛡️💰",
+    "timestamp": "2025-07-17T15:00:00Z",
+    "category": "finance"
+  },
+  {
+    "id": 95,
+    "username": "health_freak",
+    "content": "Sleep optimization techniques doubled my energy levels 😴⚡",
+    "timestamp": "2025-07-17T14:00:00Z",
+    "category": "health"
+  },
+  {
+    "id": 96,
+    "username": "movie_buff",
+    "content": "Streaming platforms are producing cinema-quality content now 📺🎭",
+    "timestamp": "2025-07-17T13:00:00Z",
+    "category": "entertainment"
+  },
+  {
+    "id": 97,
+    "username": "music_geek",
+    "content": "Jazz fusion revival is bringing new life to classic sounds 🎷🔄",
+    "timestamp": "2025-07-17T12:00:00Z",
+    "category": "music"
+  },
+  {
+    "id": 98,
+    "username": "dev_master",
+    "content": "API design principles make or break developer experience 🔌💡",
+    "timestamp": "2025-07-17T11:00:00Z",
+    "category": "development"
+  },
+  {
+    "id": 99,
+    "username": "crypto_bro",
+    "content": "Central bank digital currencies are reshaping monetary policy 🏛️💱",
+    "timestamp": "2025-07-17T10:00:00Z",
+    "category": "crypto"
+  },
+  {
+    "id": 100,
+    "username": "data_scientist",
+    "content": "Ensemble methods combined multiple models into prediction powerhouse 🎯🔬",
+    "timestamp": "2025-07-17T09:00:00Z",
+    "category": "data"
+  }
+]

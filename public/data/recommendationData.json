@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "title": "Machine Learning Fundamentals for Beginners",
+    "description": "Start your AI journey with essential concepts and practical examples.",
+    "source": "Coursera",
+    "category": "technology"
+  },
+  {
+    "id": 2,
+    "title": "Olympic Training Secrets Revealed",
+    "description": "How elite athletes prepare their bodies for peak performance.",
+    "source": "Healthline",
+    "category": "sports"
+  },
+  {
+    "id": 3,
+    "title": "Quantum Computing Breakthroughs in 2025",
+    "description": "Revolutionary quantum processors changing the tech landscape.",
+    "source": "TechCrunch",
+    "category": "technology"
+  },
+  {
+    "id": 4,
+    "title": "Emergency Fund Planning Made Simple",
+    "description": "Build financial security with these practical saving strategies.",
+    "source": "NerdWallet",
+    "category": "finance"
+  },
+  {
+    "id": 5,
+    "title": "Mediterranean Diet Benefits Explained",
+    "description": "Science-backed reasons to adopt this heart-healthy eating pattern.",
+    "source": "WebMD",
+    "category": "health"
+  },
+  {
+    "id": 6,
+    "title": "Indie Films Stealing the Spotlight",
+    "description": "Underground cinema gems that deserve your attention this year.",
+    "source": "IMDb",
+    "category": "entertainment"
+  },
+  {
+    "id": 7,
+    "title": "AI-Generated Music Revolution",
+    "description": "How artificial intelligence is reshaping music composition.",
+    "source": "Rolling Stone",
+    "category": "music"
+  },
+  {
+    "id": 8,
+    "title": "React 19 Features and Updates",
+    "description": "Explore the latest React framework enhancements for developers.",
+    "source": "freeCodeCamp",
+    "category": "development"
+  },
+  {
+    "id": 9,
+    "title": "DeFi Protocols Worth Watching",
+    "description": "Decentralized finance platforms showing promising growth potential.",
+    "source": "CoinDesk",
+    "category": "crypto"
+  },
+  {
+    "id": 10,
+    "title": "Python Libraries for Data Analysis",
+    "description": "Essential tools every data scientist should master in 2025.",
+    "source": "Kaggle",
+    "category": "data"
+  },
+  {
+    "id": 11,
+    "title": "Neural Networks Made Simple",
+    "description": "Understanding deep learning concepts without complex mathematics.",
+    "source": "edX",
+    "category": "technology"
+  },
+  {
+    "id": 12,
+    "title": "Recovery Techniques for Runners",
+    "description": "Prevent injuries and improve performance with proper recovery.",
+    "source": "Runner's World",
+    "category": "sports"
+  },
+  {
+    "id": 13,
+    "title": "Foldable Smartphone Revolution",
+    "description": "Next-generation mobile devices changing how we use phones.",
+    "source": "The Verge",
+    "category": "technology"
+  },
+  {
+    "id": 14,
+    "title": "Tax Optimization Strategies",
+    "description": "Legal ways to minimize your tax burden and maximize savings.",
+    "source": "Investopedia",
+    "category": "finance"
+  },
+  {
+    "id": 15,
+    "title": "Mental Health in the Digital Age",
+    "description": "Managing stress and anxiety in our connected world.",
+    "source": "Psychology Today",
+    "category": "health"
+  },
+  {
+    "id": 16,
+    "title": "Streaming Wars: Who's Winning?",
+    "description": "Analysis of the competitive landscape in digital entertainment.",
+    "source": "Variety",
+    "category": "entertainment"
+  },
+  {
+    "id": 17,
+    "title": "Vinyl Records Making a Comeback",
+    "description": "Why analog music is thriving in the digital era.",
+    "source": "Billboard",
+    "category": "music"
+  },
+  {
+    "id": 18,
+    "title": "DevOps Best Practices 2025",
+    "description": "Streamline your development and deployment workflows.",
+    "source": "GitHub",
+    "category": "development"
+  },
+  {
+    "id": 19,
+    "title": "NFT Market Analysis",
+    "description": "Understanding the current state of non-fungible tokens.",
+    "source": "CryptoSlate",
+    "category": "crypto"
+  },
+  {
+    "id": 20,
+    "title": "Big Data Analytics Trends",
+    "description": "How organizations are leveraging large datasets for insights.",
+    "source": "DataCamp",
+    "category": "data"
+  },
+  {
+    "id": 21,
+    "title": "Computer Vision Applications",
+    "description": "Real-world uses of image recognition technology today.",
+    "source": "MIT OpenCourseWare",
+    "category": "technology"
+  },
+  {
+    "id": 22,
+    "title": "Nutrition for Endurance Athletes",
+    "description": "Fueling strategies for long-distance sports performance.",
+    "source": "Sports Medicine Weekly",
+    "category": "sports"
+  },
+  {
+    "id": 23,
+    "title": "5G Network Deployment Progress",
+    "description": "Global rollout status and performance improvements.",
+    "source": "Network World",
+    "category": "technology"
+  },
+  {
+    "id": 24,
+    "title": "Real Estate Investment Basics",
+    "description": "Getting started with property investment for beginners.",
+    "source": "BiggerPockets",
+    "category": "finance"
+  },
+  {
+    "id": 25,
+    "title": "Sleep Optimization Techniques",
+    "description": "Science-based methods to improve your sleep quality.",
+    "source": "Sleep Foundation",
+    "category": "health"
+  },
+  {
+    "id": 26,
+    "title": "Horror Movie Renaissance",
+    "description": "Why scary films are experiencing a creative golden age.",
+    "source": "Fangoria",
+    "category": "entertainment"
+  },
+  {
+    "id": 27,
+    "title": "K-Pop Global Influence",
+    "description": "How Korean music conquered international markets.",
+    "source": "Pitchfork",
+    "category": "music"
+  },
+  {
+    "id": 28,
+    "title": "Microservices Architecture Guide",
+    "description": "Building scalable applications with distributed systems.",
+    "source": "Stack Overflow",
+    "category": "development"
+  },
+  {
+    "id": 29,
+    "title": "Stablecoin Regulations Update",
+    "description": "New policies affecting digital currency stability mechanisms.",
+    "source": "Blockworks",
+    "category": "crypto"
+  },
+  {
+    "id": 30,
+    "title": "Machine Learning Model Deployment",
+    "description": "Taking your AI models from development to production.",
+    "source": "MLOps Community",
+    "category": "data"
+  },
+  {
+    "id": 31,
+    "title": "Robotics in Manufacturing",
+    "description": "How automation is transforming industrial production.",
+    "source": "IEEE Spectrum",
+    "category": "technology"
+  },
+  {
+    "id": 32,
+    "title": "Swimming Technique Optimization",
+    "description": "Perfect your stroke mechanics for competitive swimming.",
+    "source": "Swimming World",
+    "category": "sports"
+  },
+  {
+    "id": 33,
+    "title": "AR Glasses Market Evolution",
+    "description": "Augmented reality wearables approaching mainstream adoption.",
+    "source": "Wired",
+    "category": "technology"
+  },
+  {
+    "id": 34,
+    "title": "Retirement Planning Milestones",
+    "description": "Age-based financial goals for a secure retirement.",
+    "source": "Fidelity",
+    "category": "finance"
+  },
+  {
+    "id": 35,
+    "title": "Intermittent Fasting Science",
+    "description": "Research findings on time-restricted eating patterns.",
+    "source": "Harvard Health",
+    "category": "health"
+  },
+  {
+    "id": 36,
+    "title": "Documentary Film Festival Highlights",
+    "description": "Must-see non-fiction films from this year's festivals.",
+    "source": "Documentary Magazine",
+    "category": "entertainment"
+  },
+  {
+    "id": 37,
+    "title": "Electronic Music Production Tips",
+    "description": "Creating professional-quality beats and synthesized sounds.",
+    "source": "Future Music",
+    "category": "music"
+  },
+  {
+    "id": 38,
+    "title": "Database Optimization Techniques",
+    "description": "Improve query performance and reduce server load.",
+    "source": "Database Journal",
+    "category": "development"
+  },
+  {
+    "id": 39,
+    "title": "Layer 2 Scaling Solutions",
+    "description": "Blockchain technologies solving transaction speed issues.",
+    "source": "Decrypt",
+    "category": "crypto"
+  },
+  {
+    "id": 40,
+    "title": "Data Visualization Best Practices",
+    "description": "Creating compelling charts and graphs for insights.",
+    "source": "Tableau Public",
+    "category": "data"
+  },
+  {
+    "id": 41,
+    "title": "Edge Computing Advantages",
+    "description": "Processing data closer to its source for better performance.",
+    "source": "Cloud Computing News",
+    "category": "technology"
+  },
+  {
+    "id": 42,
+    "title": "Strength Training for Seniors",
+    "description": "Safe and effective resistance exercises for older adults.",
+    "source": "AARP Fitness",
+    "category": "sports"
+  },
+  {
+    "id": 43,
+    "title": "Smart Home Security Systems",
+    "description": "Protecting your connected home from digital threats.",
+    "source": "CNET",
+    "category": "technology"
+  },
+  {
+    "id": 44,
+    "title": "Dividend Investing Strategy",
+    "description": "Building passive income through dividend-paying stocks.",
+    "source": "Morningstar",
+    "category": "finance"
+  },
+  {
+    "id": 45,
+    "title": "Gut Health and Immunity",
+    "description": "How your microbiome affects your immune system.",
+    "source": "Healthline Nutrition",
+    "category": "health"
+  },
+  {
+    "id": 46,
+    "title": "Gaming Industry Market Trends",
+    "description": "Video game sector growth and emerging technologies.",
+    "source": "GameIndustry.biz",
+    "category": "entertainment"
+  },
+  {
+    "id": 47,
+    "title": "Jazz Fusion Revival Movement",
+    "description": "Modern artists reimagining the classic jazz-rock fusion.",
+    "source": "DownBeat Magazine",
+    "category": "music"
+  },
+  {
+    "id": 48,
+    "title": "API Design Principles",
+    "description": "Creating robust and developer-friendly interfaces.",
+    "source": "Postman Blog",
+    "category": "development"
+  },
+  {
+    "id": 49,
+    "title": "Central Bank Digital Currencies",
+    "description": "Government-issued digital money developments worldwide.",
+    "source": "Central Banking",
+    "category": "crypto"
+  },
+  {
+    "id": 50,
+    "title": "A/B Testing for Data Scientists",
+    "description": "Statistical methods for comparing different approaches.",
+    "source": "Towards Data Science",
+    "category": "data"
+  },
+  {
+    "id": 51,
+    "title": "Cybersecurity Threat Landscape",
+    "description": "Emerging digital security risks and protection strategies.",
+    "source": "Security Week",
+    "category": "technology"
+  },
+  {
+    "id": 52,
+    "title": "Marathon Training Programs",
+    "description": "Structured plans for first-time and experienced runners.",
+    "source": "Marathon Handbook",
+    "category": "sports"
+  },
+  {
+    "id": 53,
+    "title": "Electric Vehicle Charging Infrastructure",
+    "description": "Rapid expansion of EV charging networks globally.",
+    "source": "Electrek",
+    "category": "technology"
+  },
+  {
+    "id": 54,
+    "title": "Credit Score Improvement Guide",
+    "description": "Proven methods to boost your creditworthiness over time.",
+    "source": "Credit Karma",
+    "category": "finance"
+  },
+  {
+    "id": 55,
+    "title": "Plant-Based Protein Sources",
+    "description": "Meeting your protein needs without animal products.",
+    "source": "Nutrition Facts",
+    "category": "health"
+  },
+  {
+    "id": 56,
+    "title": "Podcast Popularity Explosion",
+    "description": "Why audio content is dominating modern entertainment.",
+    "source": "Podcast Business Journal",
+    "category": "entertainment"
+  },
+  {
+    "id": 57,
+    "title": "Lo-Fi Hip Hop Cultural Impact",
+    "description": "How chill beats became the soundtrack to productivity.",
+    "source": "Complex Music",
+    "category": "music"
+  },
+  {
+    "id": 58,
+    "title": "Containerization with Docker",
+    "description": "Simplifying application deployment and scaling.",
+    "source": "Docker Blog",
+    "category": "development"
+  },
+  {
+    "id": 59,
+    "title": "Web3 Gaming Ecosystems",
+    "description": "Blockchain-based games and virtual economies.",
+    "source": "CoinTelegraph Gaming",
+    "category": "crypto"
+  },
+  {
+    "id": 60,
+    "title": "Natural Language Processing Advances",
+    "description": "Latest breakthroughs in computer language understanding.",
+    "source": "AI Research Papers",
+    "category": "data"
+  },
+  {
+    "id": 61,
+    "title": "Internet of Things Security",
+    "description": "Protecting connected devices from cyber attacks.",
+    "source": "IoT Security Foundation",
+    "category": "technology"
+  },
+  {
+    "id": 62,
+    "title": "Yoga for Athletic Performance",
+    "description": "How flexibility training enhances sports abilities.",
+    "source": "Yoga Journal Sports",
+    "category": "sports"
+  },
+  {
+    "id": 63,
+    "title": "Sustainable Technology Solutions",
+    "description": "Green tech innovations reducing environmental impact.",
+    "source": "GreenTech Media",
+    "category": "technology"
+  },
+  {
+    "id": 64,
+    "title": "Small Business Loan Options",
+    "description": "Financing solutions for entrepreneurs and startups.",
+    "source": "Small Business Administration",
+    "category": "finance"
+  },
+  {
+    "id": 65,
+    "title": "Stress Management Techniques",
+    "description": "Evidence-based methods for reducing daily stress levels.",
+    "source": "Mayo Clinic",
+    "category": "health"
+  },
+  {
+    "id": 66,
+    "title": "Virtual Reality Entertainment",
+    "description": "Immersive experiences reshaping how we consume media.",
+    "source": "VR Focus",
+    "category": "entertainment"
+  },
+  {
+    "id": 67,
+    "title": "Reggaeton's Global Expansion",
+    "description": "Latin urban music conquering international charts.",
+    "source": "Latin Music Weekly",
+    "category": "music"
+  },
+  {
+    "id": 68,
+    "title": "Agile Development Methodologies",
+    "description": "Iterative approaches to software project management.",
+    "source": "Agile Alliance",
+    "category": "development"
+  },
+  {
+    "id": 69,
+    "title": "Cryptocurrency Tax Implications",
+    "description": "Understanding your obligations when trading digital assets.",
+    "source": "CryptoTaxCalculator",
+    "category": "crypto"
+  },
+  {
+    "id": 70,
+    "title": "Time Series Forecasting Models",
+    "description": "Predicting future trends from historical data patterns.",
+    "source": "Analytics Vidhya",
+    "category": "data"
+  },
+  {
+    "id": 71,
+    "title": "Biometric Authentication Systems",
+    "description": "Next-generation security using biological identifiers.",
+    "source": "Biometric Update",
+    "category": "technology"
+  },
+  {
+    "id": 72,
+    "title": "CrossFit Training Fundamentals",
+    "description": "High-intensity functional fitness for all levels.",
+    "source": "CrossFit Journal",
+    "category": "sports"
+  },
+  {
+    "id": 73,
+    "title": "Brain-Computer Interface Progress",
+    "description": "Direct neural control of digital devices advancing rapidly.",
+    "source": "Neuralink News",
+    "category": "technology"
+  },
+  {
+    "id": 74,
+    "title": "ESG Investing Principles",
+    "description": "Environmental, social, and governance factors in investing.",
+    "source": "Sustainable Finance",
+    "category": "finance"
+  },
+  {
+    "id": 75,
+    "title": "Mindfulness Meditation Benefits",
+    "description": "Scientific research on meditation's impact on wellbeing.",
+    "source": "Mindful Magazine",
+    "category": "health"
+  },
+  {
+    "id": 76,
+    "title": "Animation Industry Renaissance",
+    "description": "Adult-oriented animated content gaining critical acclaim.",
+    "source": "Animation World Network",
+    "category": "entertainment"
+  },
+  {
+    "id": 77,
+    "title": "Afrobeats Global Phenomenon",
+    "description": "West African music styles influencing worldwide artists.",
+    "source": "African Music Review",
+    "category": "music"
+  },
+  {
+    "id": 78,
+    "title": "Cloud-Native Development Patterns",
+    "description": "Building applications designed for cloud environments.",
+    "source": "Cloud Native Computing Foundation",
+    "category": "development"
+  },
+  {
+    "id": 79,
+    "title": "Decentralized Autonomous Organizations",
+    "description": "Blockchain-governed entities operating without central control.",
+    "source": "DAO Weekly",
+    "category": "crypto"
+  },
+  {
+    "id": 80,
+    "title": "Feature Engineering Techniques",
+    "description": "Creating meaningful variables for machine learning models.",
+    "source": "Feature Labs",
+    "category": "data"
+  },
+  {
+    "id": 81,
+    "title": "Autonomous Vehicle Progress",
+    "description": "Self-driving car technology approaching widespread deployment.",
+    "source": "Autonomous Vehicle Technology",
+    "category": "technology"
+  },
+  {
+    "id": 82,
+    "title": "Sports Psychology for Athletes",
+    "description": "Mental training techniques for peak performance.",
+    "source": "Sports Psychology Today",
+    "category": "sports"
+  },
+  {
+    "id": 83,
+    "title": "Wearable Health Monitoring",
+    "description": "Smart devices tracking vital signs and fitness metrics.",
+    "source": "Digital Health News",
+    "category": "technology"
+  },
+  {
+    "id": 84,
+    "title": "Passive Income Stream Ideas",
+    "description": "Building wealth through minimal-effort income sources.",
+    "source": "Passive Income Pro",
+    "category": "finance"
+  },
+  {
+    "id": 85,
+    "title": "Anti-Inflammatory Foods Guide",
+    "description": "Reducing chronic inflammation through dietary choices.",
+    "source": "Anti-Inflammatory Diet Guide",
+    "category": "health"
+  },
+  {
+    "id": 86,
+    "title": "Superhero Movie Fatigue Debate",
+    "description": "Are audiences growing tired of comic book adaptations?",
+    "source": "Entertainment Weekly",
+    "category": "entertainment"
+  },
+  {
+    "id": 87,
+    "title": "Bedroom Pop Music Movement",
+    "description": "DIY indie artists creating intimate, dreamy soundscapes.",
+    "source": "Indie Music Filter",
+    "category": "music"
+  },
+  {
+    "id": 88,
+    "title": "Progressive Web App Development",
+    "description": "Creating app-like experiences using web technologies.",
+    "source": "Web Dev Simplified",
+    "category": "development"
+  },
+  {
+    "id": 89,
+    "title": "Cryptocurrency Mining Evolution",
+    "description": "Energy-efficient alternatives to proof-of-work systems.",
+    "source": "Mining Pool Hub",
+    "category": "crypto"
+  },
+  {
+    "id": 90,
+    "title": "Anomaly Detection Algorithms",
+    "description": "Identifying unusual patterns in large datasets.",
+    "source": "Data Science Central",
+    "category": "data"
+  },
+  {
+    "id": 91,
+    "title": "Space Technology Commercialization",
+    "description": "Private companies revolutionizing space exploration.",
+    "source": "Space News",
+    "category": "technology"
+  },
+  {
+    "id": 92,
+    "title": "Pilates for Core Strength",
+    "description": "Low-impact exercises building stability and flexibility.",
+    "source": "Pilates Method Alliance",
+    "category": "sports"
+  },
+  {
+    "id": 93,
+    "title": "Artificial Intelligence Ethics",
+    "description": "Moral considerations in AI development and deployment.",
+    "source": "AI Ethics Institute",
+    "category": "technology"
+  },
+  {
+    "id": 94,
+    "title": "Index Fund Investment Strategy",
+    "description": "Building wealth through diversified market exposure.",
+    "source": "Bogleheads Community",
+    "category": "finance"
+  },
+  {
+    "id": 95,
+    "title": "Hydration and Athletic Performance",
+    "description": "Optimal fluid intake for exercise and recovery.",
+    "source": "Gatorade Sports Science Institute",
+    "category": "health"
+  },
+  {
+    "id": 96,
+    "title": "Film Festival Circuit Guide",
+    "description": "Navigating the world of independent cinema showcases.",
+    "source": "Filmmaker Magazine",
+    "category": "entertainment"
+  },
+  {
+    "id": 97,
+    "title": "Country Music's Pop Crossover",
+    "description": "Nashville artists finding mainstream radio success.",
+    "source": "Country Music Television",
+    "category": "music"
+  },
+  {
+    "id": 98,
+    "title": "GraphQL API Implementation",
+    "description": "Flexible query language for efficient data fetching.",
+    "source": "GraphQL Foundation",
+    "category": "development"
+  },
+  {
+    "id": 99,
+    "title": "Blockchain Interoperability Solutions",
+    "description": "Connecting different cryptocurrency networks seamlessly.",
+    "source": "Blockchain Interoperability Alliance",
+    "category": "crypto"
+  },
+  {
+    "id": 100,
+    "title": "Customer Segmentation Analysis",
+    "description": "Using data to identify distinct customer groups and preferences.",
+    "source": "Customer Analytics Hub",
+    "category": "data"
+  }
+]
